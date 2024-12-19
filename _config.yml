@@ -4,7 +4,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-UK"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Malware Analysis"
+title                    : "Cyber Detective"
 title_separator          : "-"
 subtitle                 : "Navigating the Shadows of Cyber Threats"
 name                     : "daniyyell"
