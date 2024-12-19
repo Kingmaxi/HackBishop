@@ -18,8 +18,8 @@ masthead_title           : # overrides the website title displayed in the masthe
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true
-copyright                : " daniyyell All rights reserved"
-copyright_url            : "https://daniyyell.com"
+copyright                : " Hackbishop All rights reserved"
+copyright_url            : "https://hackbishop.com"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -47,7 +47,7 @@ comments:
     lang                 : # "en" (default)
     lazy                 : # true, false # Loading of the comments will be deferred until the user scrolls near the comments container.
   staticman:
-    branch               : # "master"
+    branch               : # "main"
     endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
 reCaptcha:
   siteKey                :
@@ -100,7 +100,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Jeremiah"
+  name             : "Ese Odudu"
   avatar           : "/assets/images/daniyyell.jpeg" # Replace with actual avatar path
   bio              : "Daniel is a Senior Security Operations Analyst with expertise in malware analysis, reverse engineering, DFIR, and adversarial machine learning (AML)."
   location         : "London Area, UK"
