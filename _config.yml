@@ -6,7 +6,7 @@ locale                   : "en-UK"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Cyber Detective"
 title_separator          : "-"
-subtitle                 : "Navigating the Shadows of Cyber Threats"
+subtitle                 : "One-Stop solution in staying ahead of threat actors"
 name                     : "daniyyell"
 description              : "Diving Into Malware Analysis and DFIR: Insights and Techniques from the Frontlines of Cyber Defense by Daniyyell"
 url                      : "https://daniyyell.com"
