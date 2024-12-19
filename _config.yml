@@ -4,22 +4,22 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 # Site Settings
 locale                   : "en-UK"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Malware Analysis"
+title                    : "Cyber Detective"
 title_separator          : "-"
-subtitle                 : "Navigating the Shadows of Cyber Threats"
-name                     : "daniyyell"
+subtitle                 : "Helping You Stay ahead of Cyber Threats"
+name                     : "HackBishop"
 description              : "Diving Into Malware Analysis and DFIR: Insights and Techniques from the Frontlines of Cyber Defense by Daniyyell"
-url                      : "https://daniyyell.com"
+url                      : "https://www.hackbishop.com"
 baseurl                  : "/"
-repository               : "daniyyell-dev.github.io "
+repository               : " https://github.com/Kingmaxi/hackbishop"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : true
-copyright                : " daniyyell All rights reserved"
-copyright_url            : "https://daniyyell.com"
+copyright                : " HackBishop All rights reserved"
+copyright_url            : "https://www.hackbishop.com"
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "giscus", "custom"
   disqus:
@@ -100,18 +100,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Daniel Jeremiah"
+  name             : "Eseoghene Odudu"
   avatar           : "/assets/images/daniyyell.jpeg" # Replace with actual avatar path
-  bio              : "Daniel is a Senior Security Operations Analyst with expertise in malware analysis, reverse engineering, DFIR, and adversarial machine learning (AML)."
-  location         : "London Area, UK"
-  email            : #"info@daniyyell.com"
+  bio              : "Ese is a Threat hunter with expertise in Digital forensics, Malware Analysis, Threat Detection, He sees himself as a Detective and helps organisation and people stay ahead of threat actors."
+  location         : "Birmingham, UK"
+  email            : #"eseogheneodudu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@daniyyell.com" # Replace with your actual email
+      url: "mailto:eseogheneodudu@gmail.com" # Replace with your actual email
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
-      #url: "https://daniyyell.com"
+      #url: "https://www.hackbishop.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dani_yyell"
@@ -120,7 +120,7 @@ author:
       url: "https://www.linkedin.com/in/daniel-jeremiah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/daniyyell-dev" # Replace with your GitHub if available
+      url: "https://github.com/Kingmaxi/hackbishop" #
 
 
 # Site Footer
