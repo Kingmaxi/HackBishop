@@ -102,16 +102,16 @@ analytics:
 author:
   name             : "Ese Odudu"
   avatar           : "/assets/images/daniyyell.jpeg" # Replace with actual avatar path
-  bio              : "Daniel is a Senior Security Operations Analyst with expertise in malware analysis, reverse engineering, DFIR, and adversarial machine learning (AML)."
-  location         : "London Area, UK"
-  email            : #"info@daniyyell.com"
+  bio              : "Ese is an experienced Cybersecurity threat hunter, helping organisation stay ahead of cyber threat actors and up to date to the ever increasing landscape ."
+  location         : "Birmingham, UK"
+  email            : #"eseogheneodudu@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:info@daniyyell.com" # Replace with your actual email
+      url: "eseogheneodudu@gmail.com" # Replace with your actual email
     #- label: "Website"
       #icon: "fas fa-fw fa-link"
-      #url: "https://daniyyell.com"
+      #url: "https://www.hackbishop.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/dani_yyell"
@@ -134,7 +134,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      # url: 
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
